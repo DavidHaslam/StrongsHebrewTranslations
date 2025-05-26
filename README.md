@@ -2,7 +2,7 @@
 Using Excel™ to facilitate translating the definitions for StrongsHebrew
 
 The worksheet **StrongsHebrew** was derived as follows:
-1. Used Sword utility **mod2imp** to export module StrongsHebrew to a text file with raw IMP format
+1. Used Sword utility **mod2imp** to export module **StrongsHebrew** to a text file with raw IMP format
 2. Copied the tab delimited text into the worksheet
 3. Inserted a header row
 4. Applied Conditional Formating for empty cells to have grey fill
