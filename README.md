@@ -1,5 +1,5 @@
 # StrongsHebrewTranslations
-Using **Excel™** to facilitate translating the definitions for **StrongsHebrew**
+Using **Excel™** to facilitate translating the definitions for **StrongsHebrew** to languages other than **English**
 
 The worksheet **StrongsHebrew** was derived as follows:
 1. Used Sword utility **mod2imp** to export module **StrongsHebrew** to a text file with raw IMP format
