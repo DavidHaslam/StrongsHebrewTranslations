@@ -4,8 +4,8 @@ Using **Excel™** to facilitate translating the definitions for **StrongsHebrew
 The worksheet **StrongsHebrew** was derived as follows:
 1. Used Sword utility **mod2imp** to export module **StrongsHebrew** to a text file with raw IMP format
 2. Copied the tab delimited text into the worksheet
-3. Inserted a header row
-4. Applied **Conditional Formating** for empty cells to have grey fill
+3. Inserted a header row and applied **View** | **Freeze Panes** | **Freeze Top Row**
+4. Selected whole sheet & applied **Conditional Formating** for empty cells to have grey fill
 5. Set vertical alignment = top
 6. Set all cells to have line wrap
 7. Hide all intermediate empty columns {B, D, F, H} caused by the second tab between text fields
