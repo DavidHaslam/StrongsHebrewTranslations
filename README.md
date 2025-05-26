@@ -8,7 +8,7 @@ The worksheet **StrongsHebrew** was derived as follows:
 4. Selected whole sheet & applied **Conditional Formating** for empty cells to have grey fill
 5. Set vertical alignment = top
 6. Set all cells to have line wrap
-7. Adjusted row height to automatic, thus fitting every definition within its cell & without hiding any part thereof.
+7. Adjusted row height to automatic, thus fitting every definition within its cell, without hiding any part thereof.
 8. Hide all intermediate empty columns {B, D, F, H} caused by the second tab between text fields
 9. Hide all rows that are blank (except for column A which contains the $$$nnnnn = numerical entry identifiers)
 10. Adjusted column widths for columns still visible: {A, C, E, G, I}
