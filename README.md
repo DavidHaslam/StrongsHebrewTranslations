@@ -13,5 +13,5 @@ The worksheet **StrongsHebrew** was derived as follows:
 9. Adjusted column widths for columns still visible: {A, C, E, G, I}
 10. Hidden columns {C, E, G} leaving only columns {A, I} visible. Column I contains the **Definitions**.
 11. Made column K narrower than the default (although this column is empty, it makes the next step easier)
-12. Adjusted View | Zoom to fit columns A though K.
+12. Adjusted **View** | **Zoom** to fit columns A though K.
 13. Set **Data** | **Filter** (facilitating displaying selected entries as & when required)
