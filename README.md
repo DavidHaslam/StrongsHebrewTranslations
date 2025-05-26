@@ -16,6 +16,6 @@ The worksheet **StrongsHebrew** was derived as follows:
 12. Adjusted **View** | **Zoom** to fit columns A though K.
 13. Set **Data** | **Filter** (facilitating displaying selected entries as & when required)
 
-## Subsidiary file[s]
+## Derived file[s]
 The file <code>Definitions.English.txt</code> was made by pasting the filtered **Column I** labeled **Definition** to a Text Editor.<br/>
 This is the only portion of the IMP file that requires translating.
