@@ -8,7 +8,7 @@ The worksheet **StrongsHebrew** was derived as follows:
 4. Selected whole sheet & applied **Conditional Formating** for empty cells to have grey fill
 5. Selected Columns L through P (3 entries have misplaced data) & applied **Conditional Formating** for empty cells to have light orange fill
 6. Set vertical alignment = top
-7. Set all cells to have line wrap
+7. Set all cells to wrap text
 8. Adjusted row height to automatic, thus fitting every definition within its cell, without hiding any part thereof.
 9. Hide all intermediate empty columns {B, D, F, H} caused by the second tab between text fields.
 10. Selected Column A & applied **Conditional Formating** for cells containing **$$$** to display Bold.
