@@ -21,5 +21,5 @@ The worksheet **StrongsHebrew** was derived as follows:
 
 ## Derived file[s]
 The file <code>Definitions.English.txt</code> was made by pasting the filtered **Column I** labeled **Definition** to a Text Editor.<br/>
-This is the only portion of the IMP file that requires translating.
+This is the only portion of the IMP file that requires translating.<br/>
 NB. The 3 records with misplaced fields must be fixed first, before the translating proper begins.
