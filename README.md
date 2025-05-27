@@ -6,7 +6,7 @@ The worksheet **StrongsHebrew** was derived as follows:
 2. Copied the tab delimited text into the worksheet
 3. Inserted a header row and applied **View** | **Freeze Panes** | **Freeze Top Row**
 4. Selected whole sheet & applied **Conditional Formating** for empty cells to have grey fill
-5. Selected Columns L through P & applied **Conditional Formating** for empty cells to have light orange fill
+5. Selected Columns L through P (where 3 entries have misplaced data) & applied **Conditional Formating** for empty cells to have light orange fill
 6. Set vertical alignment = top
 7. Set all cells to have line wrap
 8. Adjusted row height to automatic, thus fitting every definition within its cell, without hiding any part thereof.
